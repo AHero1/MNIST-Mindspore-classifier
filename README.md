@@ -1,4 +1,3 @@
-# MNIST-Mindspore-classifier
 # MNIST Classifier with MindSpore
 
 This project demonstrates a simple digit classifier trained on the MNIST dataset using [MindSpore](https://www.mindspore.cn/), a deep learning framework.
